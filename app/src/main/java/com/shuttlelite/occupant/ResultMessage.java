@@ -1,0 +1,7 @@
+package com.shuttlelite.occupant;
+
+public class ResultMessage {
+    public static final String SUCCESS = "성공";
+    public static final String ERROR = "알 수 없는 오류 발생";
+    public static final String WRONG_OCCUPANT_NUMBER = "잘못된 원번입니다.";
+}
